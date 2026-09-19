@@ -246,4 +246,4 @@ This repository serves as the official landing page for Eggy Party. The software
 **Get the most recent version of Eggy Party today!**
 
 ---
-**Last updated:** 2026-09-19 12:53:25 UTC
+**Last updated:** 2026-09-19 16:14:15 UTC
